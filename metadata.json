@@ -1,0 +1,6 @@
+{
+  "name": "Editorial Wireframe Gazette",
+  "description": "An editorial neo-brutalist publication interface featuring an exposed wireframe grid layout, stark condensed typography, and a two-tone high-contrast architectural palette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
